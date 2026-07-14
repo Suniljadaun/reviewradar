@@ -1,0 +1,11 @@
+review_id,text,rating,verified
+1,"this product exceeded my expectations loved it    ", 5, true
+2,"Terrible product, broke after two days    ", 1, TruE
+3,"Terrible quality , broke after two days", 1, true
+4,"It's ok, nothing special but does the job", 3, false
+5,"", 4, true
+6,"best purchage I made this year, Highly recommend to everyone", 5, True
+7,"complete waste of money , do not buy",  1, false
+8,"Amazing! will definitely buy again" , 5, false
+9,"the delivery was fast but the product is mediocre",  2,  true
+10,"Not what was advertiesed ,  very disappointed",  1, true
