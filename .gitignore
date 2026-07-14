@@ -1,0 +1,17 @@
+# Virtual environment -- recreatable via requirement.txt, Never committed.
+venv/
+
+
+#Python bytecode cache-- generated automatically , pure noise
+__pycache__/
+*.pyc
+
+# Editor settings -- personal  , not project 
+
+.vscode/ 
+
+#OS junk files 
+.DS_Store
+
+# Secrets __ NEVER in git .. this line will save our lives on day 14 (cloud keys ) 
+.env 
