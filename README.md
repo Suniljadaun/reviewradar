@@ -1,4 +1,4 @@
-# ReviewRadar
+# ReviewRadar - see your feedback clearly 
 
 A feedback intelligence Platform -- built **live on Youtube**
 
