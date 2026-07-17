@@ -9,7 +9,7 @@ detects when that model degrades(drift) , retrains it automatically , and includ
 assistant you can ask quesitons about the feedback -- all running on real production infrastructure. 
 
 
-## Status : Day 4 -- | git | & github | 
+## Status : Day 4 -- | git | & github |
 
 
 
