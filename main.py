@@ -3,9 +3,7 @@ Entry point for ReviewRadar -
 """
 
 
-import sys
 
-sys.path.insert(0, "src") 
 
 from reviewradar import load_reviews, summarize_reviews
 
