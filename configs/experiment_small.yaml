@@ -1,0 +1,18 @@
+data:
+  dataset_name: "stanfordnlp/imdb"
+  sample_size: 5000
+  test_size: 0.2
+  random_state: 42
+
+
+features:
+  max_features: 500   # vocabulary cap for TF-IDF
+  ngram_range: [1, 2]  # 1 -word and 2-word  features...
+  stop_words: "english" # drop glue words(like a,  the , an etc.  )
+
+model:
+  max_iter: 1000
+  random_state: 42
+
+output:
+  model_dir: "models"  # where artifacts lands
